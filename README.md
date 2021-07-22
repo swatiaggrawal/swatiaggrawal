@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swatiaggrawal
-- 👀 I’m interested in Artificial Intelligence, Machine Learning , Data Structures 
+- 👀 I’m currently learning Artificial Intelligence, Machine Learning , Data Structures 
 - 📫 How to reach me swatiaggrawal86@gmail.com
 
 <!---
