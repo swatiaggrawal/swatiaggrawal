@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swatiaggrawal
-- 👀 I’m currently learning Artificial Intelligence, Machine Learning , Data Structures 
-- 📫 How to reach me swatiaggrawal86@gmail.com
+- 🎯 I’m currently learning Artificial Intelligence, Machine Learning , Data Structures 
+- 📧 How to reach me swatiaggrawal86@gmail.com
 
 <!---
 swatiaggrawal/swatiaggrawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
