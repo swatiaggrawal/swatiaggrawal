@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swatiaggrawal
+- 👋 Hi, I’m Swati
 - 🎯 I’m currently learning Artificial Intelligence, Machine Learning , Data Structures 
 - 📧 How to reach me swatiaggrawal86@gmail.com
 
