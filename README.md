@@ -1,6 +1,6 @@
 ### Hi , I'm Swati 👽
-<img src="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1" height=47% width=47% align="right">
-
+<!--<img src="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1" height=47% width=47% align="right">-->
+<iframe src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="47%" height="47%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1">via GIPHY</a></p>
 
 *Getting ahead with each step!!*
 
