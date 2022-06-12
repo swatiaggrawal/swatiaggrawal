@@ -24,6 +24,8 @@ About Me -
 [twitter]: https://twitter.com/AggrawalSwati
 [linkedin]: https://www.linkedin.com/in/swati-aggrawal-02550a214
 
+![](https://visitor-badge.laobi.icu/badge?page_id=swatiaggrawal.swatiaggrawal)
+
 <h3 align="left">Languages and Tools - </h3>
 
 <p align="left"> 
@@ -31,12 +33,15 @@ About Me -
     <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    
+   
    
 </p>
 
 <p align="center">
     <a href="https://github.com/swatiaggrawal/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Swati's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=swatiaggrawal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Swati's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=swatiaggrawal&theme=algolia_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
