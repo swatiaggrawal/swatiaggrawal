@@ -1,5 +1,5 @@
 ### Hi , I'm Swati 👽
-<img src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" height=47% width=47% align="right">
+<img src="https://media0.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=790b76110819ac3351aa8299139082e6521561bc719bc1ce&rid=giphy.gif&ct=g" height=47% width=47% align="right">
 <!--
 <iframe src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="47%" height="47%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1">via GIPHY</a></p>
 -->
@@ -12,7 +12,7 @@ About Me -
     
 - 🤝 <b>I’m looking to collaborate for</b> <code>hackathons.</code>     
 
-- 💬 <b>Ask me about</b> <code> C and C++ programming </code> <b>related stuff, I'll be happy to help.</b>  
+- 💬 <b>Ask me about</b> <code> C and C++ programming </code><b> related stuff, I'll be happy to help.</b>  
     
 - 📧 <b>How to reach me swatiagg357@gmail.com</b>   
     
