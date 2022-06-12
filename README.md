@@ -1,15 +1,15 @@
 ### Hi , I'm Swati 👽
-<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
+<img src="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1" height=47% width=47% align="right">
 
 
-*Getting ahead wuth each step!!*
+*Getting ahead with each step!!*
 
 About Me -
 <ul>
     
 - 🎯 <b> I’m currently learning </b> <code> Artificial Intelligence, Machine Learning and Data Structures.</code>   
     
-- 🤝 <b>I’m looking to collaborate for</b> <code>open source</code> <b>and</b> <code>hackathons.</code>     
+- 🤝 <b>I’m looking to collaborate for</b> <code>hackathons.</code>     
 
 - 💬 <b>Ask me about</b> <code> C and C++ programming </code> <b>related stuff, I'll be happy to help.</b>  
     
