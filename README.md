@@ -24,7 +24,7 @@ About Me -
 [twitter]: https://twitter.com/AggrawalSwati
 [linkedin]: https://www.linkedin.com/in/swati-aggrawal-02550a214
 
-![](https://visitor-badge.laobi.icu/badge?page_id=swatiaggrawal.swatiaggrawal)
+<!--![](https://visitor-badge.laobi.icu/badge?page_id=swatiaggrawal.swatiaggrawal)-->
 
 <h3 align="left">Languages and Tools - </h3>
 
@@ -41,7 +41,7 @@ About Me -
 
 <p align="center">
     <a href="https://github.com/swatiaggrawal/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Swati's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=swatiaggrawal&theme=algolia_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Swati's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=swatiaggrawal&theme=algolia"/>
     </a>
 </p>
 
