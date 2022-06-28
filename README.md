@@ -29,7 +29,6 @@ About Me -
 <h3 align="left">Languages and Tools - </h3>
 
 <p align="left"> 
-   
     <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/c-programming.png"/> </a>
     <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
