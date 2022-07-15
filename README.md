@@ -1,5 +1,5 @@
 ### Hi , I'm Swati 🎈
-<img src="https://media0.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=790b76110819ac3351aa8299139082e6521561bc719bc1ce&rid=giphy.gif&ct=g" height=40% width=40% align="right">
+<img src="https://media0.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=790b76110819ac3351aa8299139082e6521561bc719bc1ce&rid=giphy.gif&ct=g" height=50% width=50% align="right">
 
 *Getting ahead with each step!!*
 
