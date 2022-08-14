@@ -6,7 +6,7 @@
 About Me -
 <ul>
     
-- 🎯 <b> I’m currently learning </b> <code> Artificial Intelligence, Machine Learning and Data Structures.</code>   
+- 🎯 <b> I’m currently learning </b> <code> Artificial Intelligence, Machine Learning, Data Structures and Web Development.</code>   
     
 - 🤝 <b>I’m looking to collaborate for</b> <code>hackathons and open source.</code>     
 
