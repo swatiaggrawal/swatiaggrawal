@@ -2,7 +2,6 @@
 <img src="https://media0.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=790b76110819ac3351aa8299139082e6521561bc719bc1ce&rid=giphy.gif&ct=g" height=90% width=55% align="right">
 
 
-About Me -
 <ul>
     
 - 🎯 <b> I’m currently learning </b> <code> Artificial Intelligence, Machine Learning, Data Structures and Web Development.</code>   
@@ -23,7 +22,7 @@ About Me -
 [twitter]: https://twitter.com/AggrawalSwati
 [linkedin]: https://www.linkedin.com/in/swati-aggrawal-02550a214
 
-<!--![](https://visitor-badge.laobi.icu/badge?page_id=swatiaggrawal.swatiaggrawal)-->
+![](https://visitor-badge.laobi.icu/badge?page_id=swatiaggrawal.swatiaggrawal)
 
 <h3 align="left">Languages and Tools - </h3>
 
