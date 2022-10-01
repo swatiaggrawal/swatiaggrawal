@@ -47,22 +47,13 @@ About Me -
    
 </p>
 
-<p align="center">
-    <a href="https://github.com/swatiaggrawal/github-readme-streak-stats">
-        <img title="🔥" alt="Swati's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=swatiaggrawal&theme=algolia"/>
-    </a>
-</p>
 
-<p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=swatiaggrawal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-</p>
-<!--
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=swatiaggrawal&theme=tokyonight">
         <img title="most used languages" alt="alt" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatiaggrawal&theme=tokyonight"/>
     </a>
 </p>
--->
+
 
 <p align="center">
   <img width="370px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=swatiaggrawal&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" />
