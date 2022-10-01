@@ -1,4 +1,4 @@
-<h1 align="center">Ōhē, I'm Swati Aggrawal 👋</h1>
+<h1 align="center">Hey!! I'm Swati 👋</h1>
 <img src="https://media0.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=790b76110819ac3351aa8299139082e6521561bc719bc1ce&rid=giphy.gif&ct=g" height=90% width=55% align="right">
 
 
