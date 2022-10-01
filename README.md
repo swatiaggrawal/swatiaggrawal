@@ -41,10 +41,11 @@ About Me -
   
   <img width="370px" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=swatiaggrawal&background=ffffff00&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 
+    <!--
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatiaggrawal&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&custom_title=Top+Language's+Used&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff">
 </p>
-
+-->
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=swatiaggrawal&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
