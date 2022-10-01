@@ -36,6 +36,11 @@ About Me -
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/></a>
    
+  <p align="center">
+  <img width="370px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=swatiaggrawal&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" />
+  
+  <img width="370px" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=swatiaggrawal&background=ffffff00&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+</p>
      
   
    
