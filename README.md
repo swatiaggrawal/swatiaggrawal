@@ -58,3 +58,6 @@ About Me -
     </a>
 </p>
 -->
+
+<p align="center">
+  <img width="370px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=swatiaggrawal&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" />
