@@ -49,6 +49,7 @@ Hey!! I'm Swati
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/></a>
  <br>
+ <br>
    
  <h2 align="center"> My GitHub Stats - </h2>
   <p align="center">
