@@ -20,12 +20,6 @@ Hey!! I'm Swati
 
 <h3 align="left">Connect with me - </h3>
 
-🐤 [twitter][twitter] **//** 
-👩‍🏫 [linkedin][linkedin]
-
-[twitter]: https://twitter.com/AggrawalSwati
-[linkedin]: https://www.linkedin.com/in/swati-aggrawal-02550a214
-
  <div id="badges" align="center">
  
 
