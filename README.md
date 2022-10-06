@@ -18,7 +18,9 @@ Hey!! I'm Swati
     
 </ul>
 
+<!--
 <h2 align="center">Connect with me - </h2>
+-->
 
  <div id="badges" align="center">
  
@@ -35,8 +37,8 @@ Hey!! I'm Swati
   </a>
 </div>
 
-<!-- <h2 align="center">Languages and Tools - </h2> 
- -->
+<h2 align="center">Languages and Tools - </h2> 
+ 
 
 <p align="center"> 
     <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/c-programming.png"/> </a>
