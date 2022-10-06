@@ -26,7 +26,17 @@ Hey!! I'm Swati
 [twitter]: https://twitter.com/AggrawalSwati
 [linkedin]: https://www.linkedin.com/in/swati-aggrawal-02550a214
 
+ <div id="badges" align="center">
+ 
 
+  <a href="https://twitter.com/aggrawalswati">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+
+  <a href = "mailto:swatiagg357@gmail.com">
+    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>                                               
+
+  </a>
+</div>
 
 <h3 align="left">Languages and Tools - </h3>
 
