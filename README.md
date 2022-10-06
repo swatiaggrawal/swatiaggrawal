@@ -21,7 +21,7 @@ Hey!! I'm Swati
 <!--
 <h2 align="center">Connect with me - </h2>
 -->
-
+<br>
  <div id="badges" align="center">
  
 
@@ -36,6 +36,7 @@ Hey!! I'm Swati
 
   </a>
 </div>
+<br>
 
 <h2 align="center">Languages and Tools - </h2> 
  
