@@ -8,11 +8,11 @@ Hey!! I'm Swati
 
 <ul>
     
-- 🎯 <b> I’m currently learning </b> <code> Artificial Intelligence, Machine Learning, Data Structures and Web Development.</code>   
+- 🎯 <b> I’m currently learning </b> <code> Artificial Intelligence, Machine Learning, Data Structures and Web Development</code>   
     
-- 🤝 <b>I’m looking to collaborate for</b> <code>hackathons and open source.</code>     
+- 🤝 <b>I’m looking to collaborate for</b> <code>hackathons and open source</code>     
 
-- 💬 <b>Ask me about</b> <code> C and C++ programming </code><b> stuff, I'll be happy to help.</b>  
+- 💬 <b>Ask me about</b> <code> C and C++ programming </code><b> stuff, I'll be happy to help</b>  
     
 - 📧 <b>How to reach me swatiagg357@gmail.com</b>   
     
