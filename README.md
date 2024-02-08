@@ -51,16 +51,7 @@ Hey!! I'm Swati
  <br>
  <br>
    
- <h2 align="center"> My GitHub Stats - </h2>
-  <p align="center">
-  <img width="370px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=swatiaggrawal&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" />
-  
-  <img width="370px" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=swatiaggrawal&background=ffffff00&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=swatiaggrawal&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
-</p>
 
 
 [![@swatiaggrawal's Holopin board](https://holopin.me/swatiaggrawal)](https://holopin.io/@swatiaggrawal)
