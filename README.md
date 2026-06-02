@@ -8,7 +8,7 @@ I work at the intersection of **research and production** — from publishing at
 
 ## 🔬 Research
 
-- **Continual Learning for Computer Vision** *(Thesis, ongoing)* — Evaluating pretrained ViTs under TIL/DIL/CIL protocols, structured review of 60+ papers on catastrophic forgetting
+- **Continual Learning for Computer Vision** *(Thesis)* — Evaluating pretrained ViTs under TIL/DIL/CIL protocols, structured review of 60+ papers on catastrophic forgetting
 - **ML for Air Pollution Prediction** — [IEEE ViTECoN-2023](https://doi.org/10.1109/ViTECoN58111.2023.10157028) · Survey of 6 ML models across 6 NAAQS pollutants · 6 citations
 
 ---
