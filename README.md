@@ -83,3 +83,7 @@ Python · Bash · C++ · Linux
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swati_Aggrawal-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/swati-aggrawal-02550a214/)
 
 [![Email](https://img.shields.io/badge/Email-swatiagg357@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swatiagg357@gmail.com)
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=swatiaggrawal)
+
+
