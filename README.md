@@ -1,89 +1,136 @@
 # Hi, I'm Swati 👋
 
-**Machine Learning Engineer · AI Researcher · MSc Computer Science Graduate | Sapienza Università di Roma**
+### AI/ML Engineer · M.Sc. Computer Science · AI Research
 
-I work at the intersection of **research and production** — from publishing at IEEE to deploying ML APIs on AWS. My current focus is continual learning and vision transformers, while building end-to-end ML systems.
+I'm an **M.Sc. Computer Science graduate from Sapienza Università di Roma** with a strong focus on **AI/ML, computer vision, generative AI, and production-oriented software engineering**.
 
----
+I enjoy building AI systems that go beyond experimentation — from **RAG applications and LLM-powered systems** to **computer vision models and cloud-deployed ML APIs**.
 
-## 🔬 Research
-
-- **[Continual Learning for Computer Vision](https://github.com/swatiaggrawal/Thesis-Vision-Transformers)** *(Master's Thesis)*  
-  Evaluating pre-trained Vision Transformers in continual learning settings, investigating catastrophic forgetting and improving knowledge retention through parameter-efficient adapters and Elastic Weight Consolidation (EWC).
-
-- **[ML for Air Pollution Prediction](https://doi.org/10.1109/ViTECoN58111.2023.10157028)** — IEEE ViTECoN-2023  
-  Compared multiple ML approaches including Random Forest, SVM, Decision Trees, LS-SVM, Genetic Algorithms, and Neural Networks for air quality prediction.
+My research has focused on **Vision Transformers and continual learning**, and I have published research in an **IEEE conference**.
 
 ---
 
-## 🛠️ Featured Projects
+## 🚀 What I Work With
 
-### 📄 [DocDelta](https://github.com/swatiaggrawal/DocDelta) — Semantic Document Diff API
+**AI & Machine Learning**  
+Python · PyTorch · TensorFlow · Scikit-learn · Keras · Hugging Face · Computer Vision · Deep Learning · Vision Transformers · Continual Learning · Generative AI · LLMs · RAG · AI Agents
 
-Detects meaning-level changes between document versions, beyond traditional text comparison.
+**Software Engineering**  
+FastAPI · REST APIs · React · Git · Data Structures & Algorithms · Object-Oriented Programming
 
-Features:
-- Semantic similarity analysis using embeddings
-- Document parsing and chunking pipeline
-- REST API deployment
+**Cloud & DevOps**  
+Docker · AWS ECS · AWS Fargate · CloudWatch · Render · Azure · Linux
 
-`FastAPI` `Sentence Transformers` `Docker` `AWS ECS Fargate` `CloudWatch`
-
----
-
-### 🧠 [LossyTextCompressor](https://github.com/swatiaggrawal/LossyTextCompressor) — Semantic Embedding Quantization
-
-Explores efficient text compression using transformer embeddings and reconstruction techniques.
-
-- Generated and compressed semantic embeddings
-- Evaluated reconstruction quality using similarity metrics
-- Studied compression vs semantic preservation trade-offs
-
-`GTR-T5` `Vec2Text` `Quantization` `ROUGE-L` `BLEU` `PyTorch`
+**Data & Infrastructure**  
+NumPy · Pandas · Pinecone · Vector Databases · Gemini API
 
 ---
 
-### 👁️ [PosePal](https://github.com/swatiaggrawal/PosePal) — Real-Time Yoga Pose Classifier
+## ⭐ Featured Projects
 
-[Live Demo](https://swatiaggrawal.github.io/PosePal/)
+### 🤖 [Knowledge Copilot — Grounded RAG Chatbot](https://github.com/swatiaggrawal/RAG-Chatbot)
 
-CNN-based yoga pose classification from webcam input with real-time prediction smoothing.
+An end-to-end **Retrieval-Augmented Generation chatbot** that answers questions over FastAPI's official documentation while providing source citations with every response.
 
-`CNN` `TensorFlow/Keras` `JavaScript` `Real-time Inference`
+- Modular four-stage pipeline: **ingestion → embedding → retrieval → generation**
+- Recursive paragraph/sentence-aware chunking with Unicode normalization
+- Gemini API embeddings with task-specific query/document embeddings
+- Pinecone vector database for managed retrieval
+- FastAPI backend with `/chat` API
+- React frontend with per-answer source citations
+- Self-indexing deployment that automatically builds the knowledge base on a fresh deployment
+- Deployed backend designed around a **512 MB RAM constraint**
+
+**Tech:** Python · FastAPI · React · Gemini API · Pinecone · RAG · LLMs
+
+---
+
+### 📄 [DocDelta — AI-Powered Document Intelligence](https://github.com/swatiaggrawal/DocDelta)
+
+An AI-powered document comparison platform that detects **semantic changes** between document versions rather than relying only on character-level diffs.
+
+- Sentence-level change detection: added, removed, and modified
+- Distinguishes numerical changes from wording changes
+- Built semantic embedding and cosine-similarity pipelines
+- ~840 ms warm-request latency on CPU-only inference
+- Async FastAPI REST APIs with request validation
+- Containerized using Docker
+- Deployed on **AWS ECS/Fargate**
+- Monitored with **AWS CloudWatch**
+
+**Tech:** Python · FastAPI · Sentence Transformers · PyTorch · Docker · AWS ECS/Fargate · CloudWatch
+
+---
+
+### 🧠 [Vision Transformers & Continual Learning](https://github.com/swatiaggrawal/Thesis-Vision-Transformers)
+
+My Master's research project at the **Vision Lab, Sapienza Università di Roma**, focused on reducing catastrophic forgetting in Vision Transformers during continual learning.
+
+- Developed PyTorch training and evaluation pipelines
+- Implemented **adapter-based continual learning** and **Elastic Weight Consolidation (EWC)**
+- Evaluated sequential classification across 5 Split CIFAR-100 tasks
+- Achieved **90.59% average accuracy**
+- Achieved only **2.01% average forgetting**
+- ~97% relative reduction in catastrophic forgetting compared with a CNN baseline
+- Benchmarked against ResNet-18 and naive ViT fine-tuning
+- Validated results through cross-seed evaluation
+
+**Tech:** Python · PyTorch · Vision Transformers · Computer Vision · Continual Learning
 
 ---
 
 ### 🔍 [Metal Defect Detection](https://github.com/swatiaggrawal/Metal-Defect-Detection)
 
-Computer vision pipeline for industrial surface defect classification.
+A computer vision system for automated industrial metal surface defect detection using the **NEU dataset**.
 
-- Trained CNN, SVM, and Random Forest models
-- Applied preprocessing, augmentation, and feature extraction
-- Evaluated using accuracy, precision, recall, and F1-score
+- Custom CNN using TensorFlow/Keras
+- SVM and Random Forest models using HOG features
+- Image preprocessing and augmentation pipelines
+- Hyperparameter optimization with GridSearchCV
+- **97.22% test accuracy** using the CNN
+- Compared deep learning against classical computer vision approaches
 
-`Python` `TensorFlow` `Keras` `OpenCV` `Scikit-learn`
-
----
-
-## ⚙️ Skills
-
-**ML & Research:**  
-PyTorch · TensorFlow · Transformers · CNNs · NLP · Continual Learning · Model Evaluation
-
-**Engineering:**  
-FastAPI · Docker · AWS ECS/Fargate · CloudWatch · REST APIs · Git
-
-**Languages:**  
-Python · Bash · C++ · Linux
+**Tech:** Python · TensorFlow · Keras · OpenCV · Scikit-learn · Computer Vision
 
 ---
 
-## 📬 Connect
+## 🔬 Research & Publication
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swati_Aggrawal-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/swati-aggrawal-02550a214/)
+### Master's Research — Vision Lab, Sapienza Università di Roma
+**Evaluating Pretrained Vision Transformers Under Continual Learning**
 
-[![Email](https://img.shields.io/badge/Email-swatiagg357@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swatiagg357@gmail.com)
+Research focused on adapter-based continual learning and Elastic Weight Consolidation for mitigating catastrophic forgetting in Vision Transformers.
+
+### IEEE Publication — Machine Learning for Air Pollution Prediction
+
+Evaluated multiple machine learning approaches including **Random Forest, SVM, Decision Trees, and Neural Networks** for air pollution prediction.
+
+📄 [IEEE Publication](https://doi.org/10.1109/ViTECoN58111.2023.10157028)
+
+---
+
+## 🎓 Education
+
+**M.Sc. Computer Science**  
+Sapienza Università di Roma · 2026
+
+Relevant coursework: Deep Learning & Applied AI · Machine Learning · NLP · Computer Vision · Distributed Systems
+
+**B.Tech — Computer Science & Engineering (AI & ML)**  
+Sharda University · 2023
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/swatiaggrawal)
+- 📧 [Email](mailto:swatiagg357@gmail.com)
+
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=swatiaggrawal)
 
+---
 
+### 💡 Currently Interested In
+
+**AI/ML Engineering · Generative AI · RAG · LLM Applications · Computer Vision · Machine Learning Research · AI Systems**
