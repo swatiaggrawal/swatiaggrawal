@@ -19,7 +19,7 @@ Python · PyTorch · TensorFlow · Scikit-learn · Keras · Hugging Face · Comp
 FastAPI · REST APIs · React · Git · Data Structures & Algorithms · Object-Oriented Programming
 
 **Cloud & DevOps**  
-Docker · AWS ECS · AWS Fargate · CloudWatch · Render · Azure · Linux
+Docker · AWS ECS · AWS Fargate · CloudWatch · Render · Linux
 
 **Data & Infrastructure**  
 NumPy · Pandas · Pinecone · Vector Databases · Gemini API
