@@ -87,7 +87,7 @@ A computer vision system for automated industrial metal surface defect detection
 - SVM and Random Forest models using HOG features
 - Image preprocessing and augmentation pipelines
 - Hyperparameter optimization with GridSearchCV
-- **97.22% test accuracy** using the CNN
+- **95.8% test accuracy** using the CNN
 - Compared deep learning against classical computer vision approaches
 
 **Tech:** Python · TensorFlow · Keras · OpenCV · Scikit-learn · Computer Vision
